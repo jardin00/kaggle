@@ -5,4 +5,5 @@
 
 | Title | Score | Status |
 | ------------ | ------------- | ------------- |
-| Spaceship Titanic | 0.80126 | in progress |
+| [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | 0.80126 | in progress |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) | 0.57064 | in progress |
